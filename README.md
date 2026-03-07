@@ -40,20 +40,20 @@ A full-featured e-commerce Android application for cosmetics and skincare produc
 ## ✨ Features
 
 ### 👤 User Side
-- **User Authentication** — register and login with username & password
-- **Product Catalog** — browse by category: Cosmetics, Perfumes, Nail Care, Hair
-- **Sub-categories** — Cosmetics split into Lips, Eyes, Face
-- **Smart Filtering** — filter by price range, brand name, or product description
-- **Product Detail** — view product image, price, rating, and reviews
-- **Favorites** — add/remove products with SQL persistence
-- **Shopping Cart** — persists across sessions (saved to DB on exit, reloaded on login)
-- **Order History** — full order tracking saved per user
-- **Payment** — Debit / Visa / MasterCard or PayPal integration
-- **Push Notifications** — scheduled notifications that fire even after the app is closed
+- **User Authentication** - register and login with username & password
+- **Product Catalog** - browse by category: Cosmetics, Perfumes, Nail Care, Hair
+- **Sub-categories** - Cosmetics split into Lips, Eyes, Face
+- **Smart Filtering** - filter by price range, brand name, or product description
+- **Product Detail** - view product image, price, rating, and reviews
+- **Favorites** - add/remove products with SQL persistence
+- **Shopping Cart** - persists across sessions (saved to DB on exit, reloaded on login)
+- **Order History** - full order tracking saved per user
+- **Payment** - Debit / Visa / MasterCard or PayPal integration
+- **Push Notifications** - scheduled notifications that fire even after the app is closed
 
 ### 🔧 Admin Side
-- **Admin Panel** — separate login for administrators
-- **Inventory Management** — add, update, and delete products from the catalog
+- **Admin Panel** - separate login for administrators
+- **Inventory Management** - add, update, and delete products from the catalog
 
 ---
 
